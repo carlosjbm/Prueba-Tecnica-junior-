@@ -1,0 +1,9 @@
+.book-container {
+  display: flex;
+  flex-direction: column;
+  border: solid 2px blue;
+  width: 250px;
+  padding: 10px;
+  justify-content: center;
+  border-radius: 10px;
+}
